@@ -1,10 +1,12 @@
 name: Deploy to Multi-Cloud
 
 on:
-  push:
-    paths:
-      - ansible/roles/webapp/files/index.html
-      - ansible/**
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'production'
 
 jobs:
   deploy:
