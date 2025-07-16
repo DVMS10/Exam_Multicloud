@@ -1,0 +1,5 @@
+- name: Configuration des VMs et déploiement d'une application web sur Nginx
+  hosts: all
+  become: true
+  roles:
+    - webapp

@@ -1,0 +1,33 @@
+- name: Mettre à jour les paquets
+  apt:
+    update_cache: yes
+    upgrade: dist
+  become: yes
+
+- name: Installer Nginx
+  apt:
+    name: nginx
+    state: present
+  become: yes
+
+- name: Copier l'application web
+  copy:
+    src: index.html
+    dest: /var/www/html/index.html
+    owner: www-data
+    group: www-data
+    mode: '0644'
+  become: yes
+
+- name: Déployer le fichier de configuration Nginx
+  template:
+    src: nginx.conf.j2
+    dest: /etc/nginx/sites-available/default
+  become: yes
+
+- name: Redémarrer Nginx pour appliquer la configuration
+  service:
+    name: nginx
+    state: restarted
+    enabled: yes
+  become: yes
