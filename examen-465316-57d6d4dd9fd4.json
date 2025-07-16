@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "examen-465316",
+  "private_key_id": "57d6d4dd9fd4f576e2a74f588fceb0322d985f99",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgGaDoLdphai4a\nYv9JMtqLBOrVP0h0IH+ae4MAlgyGP2mSvAbc7ZtCF4gE+PEEDOGXd8XA7lYgUoq7\njzUp1TPBcJWC0vneuppftPKghY0NgWrtmmaORlCq37lvlYZs6SsiaZtrleN4tmQO\nvaQ87Y60Eljt5hB7aK95KlOKsZh5DLN70TVms+GjtMyVeBKecUnjTV+GNHhHQWOF\njFqY45bU7SkrnnTRrN1SCGYqPd0NAwElcIWkXpmEAWxRqLZvI+HzsckqEerwrhWu\nuDa0YwJNkk7ePZsXZP7BGXxITedkya1DixOxUO4aFVwejfBR5O/Ak7shpLihO0As\n/GNZXptdAgMBAAECggEAUI210q+kx454ywBZ3nB6sS0P0p6AR0nlRFzwXpYRI3KI\n2vdeiiyYuf2mZY8sZ3XP43forCyf5dd1yey0wfhCtd5nx9JZgg/WbN+otT28UaX7\nDzSId8zbs0hfKjZ3zw9Tc3e9p8MFtL7vIYNWlZYYzS6pK76enxWmuamWxQyIj73u\nTO5er+snS7a9/kKet7omq2+PVWQweQnZmxLUp1RsSOvFD3f+qXDuZ2+hppAdq2my\nIhmJ5HUfm5GLH0PmQWYFdk4qyB4qLXZEKEeBocWkgjFfDK+1/jdij+2Xyz3R0/2V\nVGQy+rT4Md5iP/2r6hCSTh+XCLrNTDPviSPgJEdWOwKBgQD0keIrppyINq/U5o3R\nEQA9vD0EfabMo7JHbhCsCdBfhvwWJdRBgqaFCNcbqfrmV7UGm2Bn8AAKLWK7PRNr\n1nVR5T04vCnHbzJTRZnBBtKzaCiCT5OQwStjh4U8EHRdYnrcW8n4vtvsDvdOj2ol\n+5XViECvP4qpDMDuWt/yS4VBRwKBgQDqktaNquFok3B6a0Q/BEeGkvtaJfWWgAPQ\niiAitDT09+gnFgOC/08GdWj7zMX+7GK2Y5NUfaBlp+HCzRmBPlMxu4h3WFpFmYcA\nA+sCvWY/7x0IH8/xT5Ni/toc0LAWCGDJX+1RtQKQHYJMzRlZI2AZkN1ZcA3bXSa3\ni9GWItrwOwKBgCvcEax0V7QR4pySsDIjE2D+5g5tHkGqxakLsw+3Ptgy0/iA1jzd\nWlGXUURTynwOlJdXvAVHxCoPE5qyjE4VirqiGsWW8QMkDOlkHPvB5n1oG4OrE7Kt\nAcP6pMktxkCNDa2BBIqIZ9ZApNdA3u9q2+cMZVVIVuyULfFQ+MJyCra3AoGADhLZ\nRI6oD3opGW8uHQnIsM5IvlPgtDLiB7UB0JM3SitFhnLPqyBeQWjx74mNp4nPMlov\nELao1PCJnwJnMVXn7+fsfByU7fAUJXAWvYdXhyZ1e3NNKpE3qozX0TrEFc5S4EId\nHvXZPYRHuQvlJW/16BLE9QTAEBU6qXB+Fp/outkCgYAOMQqbVHryfXqkOApJGhZe\n+g8QCB2IlByqKB/rfKmeizbroCnOu1/T9hYsjgLITR+HHlt9pvK7WBaXxaTbrpoa\nKa0FShOrCP3L/H52s1o/dj0uECCh0+rqgr547idoH/SLd8sJE8eWcm79ZZEoWX/A\n4OUZDP3uda+fCHc5H7iJ0Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mon-compte@examen-465316.iam.gserviceaccount.com",
+  "client_id": "101436925125928083215",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mon-compte%40examen-465316.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
